@@ -1,0 +1,95 @@
+{
+    "niños": [
+        {
+            "nombre": "jean niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-negro-hombre-1.jpg"
+        },
+        {
+            "nombre": "jean de hombre estampado",
+            "talla": "S-M-L-XL",
+            "precio": 20,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-negro-hombre-1.jpg"
+        },
+        {
+            "nombre": "jean de hombre blanco",
+            "talla": "S-M-L-XL",
+            "precio": 17,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-negro-hombre-1.jpg"
+        },
+        {
+            "nombre": "jean niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-negro-hombre-1.jpg"
+        }
+    ],
+    "hombres": [
+        {
+            "nombre": "jean niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-negro-hombre-1.jpg"
+        },
+        {
+            "nombre": "jean de hombre estampado",
+            "talla": "S-M-L-XL",
+            "precio": 20,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-negro-hombre-1.jpg"
+        },
+        {
+            "nombre": "jean de hombre blanco",
+            "talla": "S-M-L-XL",
+            "precio": 17,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-negro-hombre-1.jpg"
+        },
+        {
+            "nombre": "jean niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-negro-hombre-1.jpg"
+        }
+        
+    ],
+    "mujeres": [
+        {
+            "nombre": "jean niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg"
+        },
+        {
+            "nombre": "jean de hombre estampado",
+            "talla": "S-M-L-XL",
+            "precio": 20,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg"
+        },
+        {
+            "nombre": "jean de hombre blanco",
+            "talla": "S-M-L-XL",
+            "precio": 17,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg"
+        },
+        {
+            "nombre": "jean niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg"
+        }
+        
+    ]
+}
+    

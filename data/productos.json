@@ -1,0 +1,109 @@
+{
+    "niños": [
+        {
+            "nombre": "Polo niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+            
+        },
+        {
+            "nombre": "Polo de hombre estampado",
+            "talla": "S-M-L-XL",
+            "precio": 20,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        },
+        {
+            "nombre": "Polo de hombre blanco",
+            "talla": "S-M-L-XL",
+            "precio": 17,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        },
+        {
+            "nombre": "Polo niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        }
+    ],
+    "hombres": [
+        {
+            "nombre": "Polo niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+             "descripcion": "100% Algodon "
+       },
+ 
+    {
+            "nombre": "Polo de hombre estampado",
+            "talla": "S-M-L-XL",
+            "precio": 20,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        },
+        {
+            "nombre": "Polo de hombre blanco",
+            "talla": "S-M-L-XL",
+            "precio": 17,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        },
+        {
+            "nombre": "Polo niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        }
+        
+    ],
+    "mujeres": [
+        {
+            "nombre": "Polo niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        },
+        {
+            "nombre": "Polo de hombre estampado",
+            "talla": "S-M-L-XL",
+            "precio": 20,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        },
+        {
+            "nombre": "Polo de hombre blanco",
+            "talla": "S-M-L-XL",
+            "precio": 17,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        },
+        {
+            "nombre": "Polo niño",
+            "talla": "2-4-6-8",
+            "precio": 15,
+            "url": "productos.html",
+            "imagen": "/img/categoria/hombre/polo-blanco.jpg",
+            "descripcion": "100% Algodon"
+        }
+        
+    ]
+}
+    
